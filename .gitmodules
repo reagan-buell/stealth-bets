@@ -1,0 +1,12 @@
+[submodule "modules/nfl-models"]
+	path = modules/nfl-models
+	url = https://github.com/brianbailey18/NFL-Betting-Models
+[submodule "modules/nfl-predictions"]
+	path = modules/nfl-predictions
+	url = https://github.com/peanutshawny/nfl-sports-betting
+[submodule "modules/multi-sport-ml"]
+	path = modules/multi-sport-ml
+	url = https://github.com/jrbadiabo/Bet-on-Sibyl
+[submodule "modules/props-backend"]
+	path = modules/props-backend
+	url = https://github.com/kyleskom/NBA-Machine-Learning-Sports-Betting
