@@ -1,0 +1,296 @@
+id,homeTeam,awayTeam,spread_pick,ml_pick,ou_pick,spread_conf,ou_conf,ml_conf,predicted_margin,predicted_total
+401762856,Akron,Kent State,Kent State +7.5,No value,Over,0.5049118995666504,2.3289146423339844,0.6995088,6.995088,51.828915
+401762857,Western Michigan,Ohio,Ohio +1.5,No value,Over,6.767325401306152,8.762443542480469,0.52673256,-5.2673254,55.262444
+401762860,Miami (OH),Toledo,Toledo -6.5,Miami (OH) ML (200.0),Over,7.474066913127899,8.69732666015625,0.09740669,0.9740669,53.197327
+401762858,Central Michigan,Buffalo,Buffalo +2.5,No value,Over,7.385462284088135,11.823429107666016,0.48854622,-4.8854623,56.32343
+401762859,Massachusetts,Northern Illinois,Massachusetts +8.5,No value,Over,9.688398361206055,22.21070098876953,1.8188398,-18.188398,65.7107
+401761649,Old Dominion,Troy,Troy +9.5,No value,Over,7.642597436904907,3.9327392578125,0.18574026,1.8574026,57.43274
+401767414,North Carolina Central,South Carolina State,No line,No line,No line,,,0.10672554,1.0672554,49.50127
+401774139,Salisbury,Castleton,No line,No line,No line,,,0.24056296,2.4056296,50.519596
+401774313,College Of New Jersey,Christopher Newport,No line,No line,No line,,,0.24056296,2.4056296,50.519596
+401774155,MIT,Norwich,No line,No line,No line,,,0.0030487378,-0.030487377,45.861298
+401754591,Louisville,Clemson,Clemson +2.5,No value,Over,7.6902546882629395,4.821868896484375,0.51902544,-5.1902547,55.32187
+401833370,Augsburg,Hamline University,No line,No line,No line,,,0.01920576,0.1920576,48.48073
+401752904,Oregon,Minnesota,Minnesota +25.5,No value,Over,2.867704391479492,11.040054321289062,2.2632296,22.632296,55.540054
+401762507,Charlotte,UTSA,UTSA -17.5,No value,Under,4.732300758361816,3.3856887817382812,1.2767699,-12.767699,55.11431
+401752772,Texas A&M,South Carolina,South Carolina +19.5,No value,Over,17.54284131526947,3.2220840454101562,0.19571587,1.9571587,53.722084
+401777968,Walsh,Northwood (MI),No line,No line,No line,,,0.01920576,0.1920576,48.781166
+401777010,Fitchburg State,Westfield State,No line,No line,No line,,,0.13829455,1.3829454,50.803226
+401786380,UMass Dartmouth,Plymouth State,No line,No line,No line,,,0.13829455,1.3829454,50.803226
+401783919,Bridgewater State,Mass Maritime,No line,No line,No line,,,0.13829455,1.3829454,50.803226
+401786486,Worcester St,Framingham State,No line,No line,No line,,,0.13829455,1.3829454,50.803226
+401767748,Duquesne,Central Connecticut,No line,No line,No line,,,0.01920576,0.1920576,48.48073
+401767452,Youngstown State,Indiana State,No line,No line,No line,,,0.116108894,1.161089,48.48073
+401773656,West Virginia State,University Of Charleston (WV),No line,No line,No line,,,0.008069029,-0.080690295,51.321785
+401778003,Endicott College,Curry College,No line,No line,No line,,,0.13829455,1.3829454,50.803226
+401767263,North Carolina A&T,Monmouth,No line,No line,No line,,,0.042847157,0.42847157,49.3468
+401773312,Hartwick,Hilbert College,No line,No line,No line,,,0.10672554,1.0672554,49.344578
+401773461,Davenport,Ferris State,No line,No line,No line,,,0.009543429,0.09543429,49.3468
+401773477,Michigan Tech,Saginaw Valley State,No line,No line,No line,,,0.10672554,1.0672554,49.344578
+401773675,Fairmont State,Frostburg State,No line,No line,No line,,,0.10672554,1.0672554,49.344578
+401767501,Murray State,North Dakota,No line,No line,No line,,,0.042847157,0.42847157,49.3468
+401767402,Norfolk State,Morgan State,No line,No line,No line,,,0.10672554,1.0672554,49.344578
+401767760,St. Francis (PA),Long Island University,No line,No line,No line,,,0.20362854,2.0362854,49.50127
+401778021,Worcester Polytechnic Institute,Salve Regina,No line,No line,No line,,,0.13829455,1.3829454,50.803226
+401762510,Navy,South Florida,South Florida -9.5,Navy ML (290.0),Under,15.7622971534729,9.669811248779297,0.6262297,6.262297,52.83019
+401762861,Ball State,Eastern Michigan,Eastern Michigan -2.5,Ball State ML (114.0),Over,4.442715525627136,4.891914367675781,0.19427155,1.9427155,54.391914
+401752901,Indiana,Wisconsin,Wisconsin +28.5,No value,Over,4.42473030090332,4.686794281005859,2.407527,24.07527,49.186794
+401767663,Sacred Heart,Merrimack,No line,No line,No line,,,0.13829455,1.3829454,50.803226
+401773731,Southern Connecticut State,Post University,No line,No line,No line,,,0.13100964,1.3100964,50.803226
+401752905,Northwestern,Michigan,Northwestern +10.5,No value,Over,2.6240711212158203,15.619949340820312,1.3124071,-13.124071,57.11995
+401756951,Cincinnati,Arizona,Arizona +6.5,Arizona ML (170.0),Under,7.127174377441406,6.016460418701172,0.06271744,-0.6271744,50.48354
+401774146,Wilkes,Western Connecticut St,No line,No line,No line,,,0.009543429,0.09543429,49.3468
+401756952,Oklahoma State,Kansas State,Kansas State -19.5,No value,Over,5.751284599304199,3.0557022094726562,1.3748715,-13.748715,53.555702
+401767767,Mercyhurst,Robert Morris,No line,No line,No line,,,0.01920576,0.1920576,48.48073
+401774050,Ithaca College,Cortland,No line,No line,No line,,,0.24056296,2.4056296,49.50127
+401777213,Otterbein,Ohio Northern,No line,No line,No line,,,0.008069029,-0.080690295,48.324036
+401773241,Findlay,Tiffin,No line,No line,No line,,,0.008069029,-0.080690295,48.324036
+401767138,Bryant,New Hampshire,No line,No line,No line,,,0.13829455,1.3829454,50.803226
+401767677,Columbia,Brown,No line,No line,No line,,,0.24056296,2.4056296,48.89757
+401767670,Bucknell,Holy Cross,No line,No line,No line,,,0.24056296,2.4056296,49.50127
+401767707,Harvard,Pennsylvania,No line,No line,No line,,,0.0030487378,-0.030487377,49.782684
+401788998,Princeton,Yale,No line,No line,No line,,,0.24056296,2.4056296,49.50127
+401777323,Coast Guard,Merchant Marine Academy,No line,No line,No line,,,0.0030487378,-0.030487377,49.782684
+401783343,FDU-Florham,Reading,No line,No line,No line,,,0.24056296,2.4056296,49.50127
+401773863,Shepherd,Seton Hill,No line,No line,No line,,,0.10672554,1.0672554,49.528545
+401757174,UConn,Air Force,Air Force +7.5,No value,Under,2.7682809829711914,5.841064453125,0.4731719,4.731719,57.658936
+401754597,Pittsburgh,Notre Dame,Pittsburgh +12.5,No value,Over,12.667837142944336,6.543514251708984,2.5167837,-25.167837,61.043514
+401774342,Southwestern University,Berry College,No line,No line,No line,,,0.07646595,0.7646595,49.21583
+401776983,Biddeford,New England College,No line,No line,No line,,,0.13829455,1.3829454,50.803226
+401777001,Misericordia,Kings College (PA),No line,No line,No line,,,0.14234889,1.4234889,50.47588
+401776992,Albright,Lebanon Valley,No line,No line,No line,,,0.24056296,2.4056296,49.50127
+401767775,Wagner,Stonehill,No line,No line,No line,,,0.24056296,2.4056296,49.50127
+401777616,Northwestern (MN),Westminster College (MO),No line,No line,No line,,,0.15304326,1.5304326,48.48073
+401783348,Delaware Valley,Widener,No line,No line,No line,,,0.24056296,2.4056296,49.50127
+401767563,Western Carolina,East Tennessee State,No line,No line,No line,,,0.10672554,1.0672554,49.50127
+401774244,Maryville College (TN),Trinity University TX,No line,No line,No line,,,0.042847157,0.42847157,49.3468
+401777265,Ursinus,Carnegie Mellon,No line,No line,No line,,,0.20362854,2.0362854,49.50127
+401773809,Bloomsburg,Slippery Rock,No line,No line,No line,,,0.10672554,1.0672554,49.344578
+401773285,Anna Maria College,Dean College,No line,No line,No line,,,0.13829455,1.3829454,50.803226
+401773275,St John Fisher University,Alfred State,No line,No line,No line,,,0.24056296,2.4056296,50.519596
+401773844,Kutztown University,Indiana-Pennsylvania,No line,No line,No line,,,0.24056296,2.4056296,49.50127
+401783281,West Chester,Assumption,No line,No line,No line,,,0.20362854,2.0362854,49.50127
+401773833,Millersville,Edinboro University,No line,No line,No line,,,0.24056296,2.4056296,49.50127
+401773695,West Liberty,Wheeling,No line,No line,No line,,,0.10672554,1.0672554,49.344578
+401773724,Pace,Franklin Pierce,No line,No line,No line,,,0.24056296,2.4056296,50.803226
+401773715,Bentley,American International,No line,No line,No line,,,0.13829455,1.3829454,50.803226
+401767610,Marist,Davidson,No line,No line,No line,,,0.13829455,1.3829454,50.803226
+401767619,Dayton,Drake,No line,No line,No line,,,0.01920576,0.1920576,48.781166
+401774098,Moravian,Susquehanna,No line,No line,No line,,,0.24056296,2.4056296,49.50127
+401752768,LSU,Arkansas,LSU -5.5,LSU ML (-205.0),No value,6.042880058288574,0.4446220397949219,1.154288,11.54288,57.055378
+401774217,Southern Virginia,Lagrange College,No line,No line,No line,,,0.10672554,1.0672554,49.344578
+401767654,Valparaiso,Stetson,No line,No line,No line,,,0.008069029,-0.080690295,48.507996
+401767571,Furman,VMI,No line,No line,No line,,,0.042847157,0.42847157,49.3468
+401777226,Averett,Roanoke College,No line,No line,No line,,,0.07029458,0.7029458,49.3468
+401778029,Greenville,Crown College,No line,No line,No line,,,0.10672554,1.0672554,49.344578
+401774226,Brevard College,North Carolina Wesleyan,No line,No line,No line,,,0.10672554,1.0672554,49.344578
+401774234,Greensboro College,Methodist,No line,No line,No line,,,0.009543429,0.09543429,49.3468
+401773469,Grand Valley State University,Roosevelt,No line,No line,No line,,,0.01920576,0.1920576,48.48073
+401773638,Nebraska-Kearney,Central Missouri,No line,No line,No line,,,0.10672554,1.0672554,49.344578
+401773943,Carson-Newman College,Greeneville,No line,No line,No line,,,0.035225403,0.35225403,49.3468
+401773839,Lock Haven University,Gannon,No line,No line,No line,,,0.10672554,1.0672554,49.344578
+401773330,Hillsdale,Ohio Dominican,No line,No line,No line,,,0.10672554,1.0672554,49.344578
+401777018,Concordia University Chicago,Aurora,No line,No line,No line,,,0.008069029,-0.080690295,48.324036
+401773818,Shippensburg,PennWest California,No line,No line,No line,,,0.10672554,1.0672554,49.344578
+401774308,Husson,Maine Maritime,No line,No line,No line,,,0.13829455,1.3829454,49.32974
+401767393,Jackson State,Bethune-Cookman,No line,No line,No line,,,0.20310001,2.0310001,50.47588
+401777077,Denison University,John Carroll University,No line,No line,No line,,,0.008069029,-0.080690295,48.324036
+401807013,Lake Forest College,Chicago,No line,No line,No line,,,0.008069029,-0.080690295,48.324036
+401773750,Minnesota State Mankato,Minnesota State Moorhead,No line,No line,No line,,,0.01920576,0.1920576,48.48073
+401767737,Colgate,Lehigh,No line,No line,No line,,,0.13829455,1.3829454,50.803226
+401773797,Winona State,Southwest Minnesota State,No line,No line,No line,,,0.01920576,0.1920576,48.48073
+401767695,Dartmouth,Cornell,No line,No line,No line,,,0.13829455,1.3829454,50.803226
+401767717,Georgetown,Fordham,No line,No line,No line,,,0.10672554,1.0672554,49.50127
+401773781,Concordia University St Paul,Sioux Falls,No line,No line,No line,,,0.116108894,1.161089,48.48073
+401773503,Kentucky Wesleyan,Thomas More College,No line,No line,No line,,,0.042847157,0.42847157,49.3468
+401767194,Maine,Rhode Island,No line,No line,No line,,,0.13829455,1.3829454,47.69341
+401767326,Villanova,Stony Brook,No line,No line,No line,,,0.24056296,2.4056296,49.50127
+401767187,Hampton,William & Mary,No line,No line,No line,,,0.10672554,1.0672554,49.344578
+401774105,Hobart College,Buffalo State,No line,No line,No line,,,0.24056296,2.4056296,49.50127
+401774357,Augustana (IL),Washington University (St. Louis),No line,No line,No line,,,0.008069029,-0.080690295,50.757095
+401833536,North Greenville,UNC Pembroke,No line,No line,No line,,,0.07029458,0.7029458,49.3468
+401773215,Ashland,Lake Erie,No line,No line,No line,,,0.10672554,1.0672554,49.344578
+401777235,Randolph-Macon,Hampden-Sydney,No line,No line,No line,,,0.17565261,1.7565261,50.47588
+401773303,Alfred University,SUNY Morrisville,No line,No line,No line,,,0.10672554,1.0672554,49.344578
+401777101,Ohio Wesleyan,Oberlin,No line,No line,No line,,,0.008069029,-0.080690295,48.507996
+401777138,Wittenberg,Kenyon,No line,No line,No line,,,0.008069029,-0.080690295,48.507996
+401767331,UAlbany,Towson,No line,No line,No line,,,0.13829455,1.3829454,50.803226
+401774319,Kean,Rowan,No line,No line,No line,,,0.24056296,2.4056296,50.519596
+401788994,William Paterson,Montclair State,No line,No line,No line,,,0.24056296,2.4056296,49.50127
+401833372,Albany State GA,Benedict College,No line,No line,No line,,,0.20927139,2.0927138,50.097656
+401783910,Springfield,SUNY Maritime,No line,No line,No line,,,0.13829455,1.3829454,50.803226
+401783357,Stevenson,Eastern University,No line,No line,No line,,,0.24056296,2.4056296,49.50127
+401774090,Juniata College,Lycoming,No line,No line,No line,,,0.10672554,1.0672554,49.344578
+401752945,Tulsa,Oregon State,Tulsa +2.5,No value,Over,6.008800506591797,2.3869361877441406,0.85088,-8.5088005,52.886936
+401756948,Arizona State,West Virginia,Arizona State -11.5,No value,Over,0.37693119049072266,4.8279266357421875,1.1876931,11.876931,52.327927
+401774384,Millikin,Elmhurst,No line,No line,No line,,,0.042847157,0.42847157,49.3468
+401774379,North Central College,Illinois Wesleyan,No line,No line,No line,,,0.008069029,-0.080690295,48.324036
+401774391,North Park,Wheaton,No line,No line,No line,,,0.008069029,-0.080690295,48.507996
+401773690,West Virginia Wesleyan,Glenville State,No line,No line,No line,,,0.10672554,1.0672554,49.344578
+401776786,Albion,Calvin University,No line,No line,No line,,,0.008069029,-0.080690295,46.820774
+401767348,Delaware State,Howard,No line,No line,No line,,,0.10672554,1.0672554,49.50127
+401773360,Southeastern Oklahoma State,East Central (OK),No line,No line,No line,,,0.07646595,0.7646595,50.3257
+401773483,Northern Michigan,Wayne State (MI),No line,No line,No line,,,0.15304326,1.5304326,49.499054
+401777033,Concordia-Wisconsin,Eureka College,No line,No line,No line,,,0.008069029,-0.080690295,48.324036
+401806689,Gustavus Adolphus,Macalester,No line,No line,No line,,,0.01920576,0.1920576,48.48073
+401777779,Western New England,Nichols College,No line,No line,No line,,,0.13829455,1.3829454,50.803226
+401766737,Grinnell,Cornell College (IA),No line,No line,No line,,,0.008069029,-0.080690295,50.757095
+401766738,Beloit,Illinois College,No line,No line,No line,,,0.008069029,-0.080690295,48.324036
+401766739,Monmouth (IL),Knox College,No line,No line,No line,,,0.042847157,0.42847157,49.3468
+401806932,Lawrence University,Ripon,No line,No line,No line,,,0.01920576,0.1920576,48.48073
+401774071,Franklin & Marshall,Johns Hopkins University,No line,No line,No line,,,0.20362854,2.0362854,49.50127
+401767543,Southern Illinois,South Dakota,No line,No line,No line,,,0.042847157,0.42847157,49.3468
+401777736,McDaniel College,Gettysburg,No line,No line,No line,,,0.20362854,2.0362854,48.79461
+401777994,Muhlenberg,Dickinson (PA),No line,No line,No line,,,0.20362854,2.0362854,49.50127
+401806690,Saint John's (MN),St. Olaf,No line,No line,No line,,,0.15304326,1.5304326,49.499054
+401773935,Lenoir-Rhyne,Catawba,No line,No line,No line,,,0.14234889,1.4234889,50.47588
+401774116,Union (NY),Rensselaer,No line,No line,No line,,,0.13829455,1.3829454,50.803226
+401783328,St. Lawrence,University of Rochester (NY),No line,No line,No line,,,0.13829455,1.3829454,49.32974
+401774365,Carthage,Carroll University (WI),No line,No line,No line,,,0.008069029,-0.080690295,48.324036
+401777288,Saint Vincent,Westminster (PA),No line,No line,No line,,,0.10672554,1.0672554,49.344578
+401774129,Trine University,Kalamazoo,No line,No line,No line,,,0.008069029,-0.080690295,48.324036
+401776800,Hope College,Olivet College,No line,No line,No line,,,0.01920576,0.1920576,48.48073
+401806686,Augsburg,Hamline University,No line,No line,No line,,,0.15304326,1.5304326,48.48073
+401777291,Washington & Jefferson,Thiel,No line,No line,No line,,,0.10672554,1.0672554,49.344578
+401777094,Hiram College,Grove City College,No line,No line,No line,,,0.10672554,1.0672554,49.344578
+401777273,Case Western Reserve,Geneva,No line,No line,No line,,,0.01920576,0.1920576,46.7935
+401806688,Carleton,Concordia Moorhead,No line,No line,No line,,,0.116108894,1.161089,48.48073
+401777260,Allegheny,Bethany (WV),No line,No line,No line,,,0.10672554,1.0672554,49.344578
+401777248,Shenandoah,Washington and Lee,No line,No line,No line,,,0.17565261,1.7565261,50.47588
+401773826,East Stroudsburg University,Clarion,No line,No line,No line,,,0.10672554,1.0672554,49.344578
+401777084,Wabash College,Depauw,No line,No line,No line,,,0.042847157,0.42847157,49.3468
+401777210,University of Mount Union,Muskingum University,No line,No line,No line,,,0.008069029,-0.080690295,46.820774
+401774414,Hanover College,Franklin,No line,No line,No line,,,0.042847157,0.42847157,49.3468
+401774433,Rose-Hulman,Mount St. Joseph,No line,No line,No line,,,0.042847157,0.42847157,49.3468
+401777190,Wilmington (OH),Capital,No line,No line,No line,,,0.008069029,-0.080690295,48.324036
+401774427,Manchester,Anderson (IN),No line,No line,No line,,,0.008069029,-0.080690295,48.324036
+401777182,Baldwin Wallace,Heidelberg,No line,No line,No line,,,0.008069029,-0.080690295,48.507996
+401752767,Kentucky,Tennessee Tech,No line,No line,No line,,,0.008069029,-0.080690295,48.324036
+401773612,Emporia State University,Fort Hays State,No line,No line,No line,,,0.10672554,1.0672554,49.344578
+401773405,Indianapolis,Upper Iowa University,No line,No line,No line,,,0.042847157,0.42847157,49.3468
+401773415,William Jewell,Lincoln (MO),No line,No line,No line,,,0.10672554,1.0672554,49.344578
+401773528,West Alabama,Northeastern State,No line,No line,No line,,,0.20310001,2.0310001,50.47588
+401773758,Minot State,Minnesota Duluth,No line,No line,No line,,,0.10672554,1.0672554,49.344578
+401773766,Jamestown College,Northern State,No line,No line,No line,,,0.10672554,1.0672554,49.344578
+401773741,Bemidji State,University of Mary,No line,No line,No line,,,0.10672554,1.0672554,49.344578
+401773774,Wayne State (NE),Augustana University (SD),No line,No line,No line,,,0.10672554,1.0672554,49.344578
+401767169,UT Martin,Charleston Southern,No line,No line,No line,,,0.009543429,0.09543429,49.3468
+401767222,Western Illinois,Southeast Missouri State,No line,No line,No line,,,0.042847157,0.42847157,49.3468
+401767303,West Georgia,Utah Tech,No line,No line,No line,,,0.07029458,0.7029458,49.3468
+401761651,Georgia State,Marshall,Georgia State +7.5,No value,Under,3.3519229888916016,3.1301918029785156,1.0851923,-10.851923,58.36981
+401773949,UVA Wise,Emory & Henry College,No line,No line,No line,,,0.10672554,1.0672554,49.344578
+401767740,Richmond,Lafayette,No line,No line,No line,,,0.17565261,1.7565261,50.47588
+401767643,St. Thomas (MN),Presbyterian,No line,No line,No line,,,0.116108894,1.161089,48.48073
+401767147,Campbell,Elon,No line,No line,No line,,,0.17565261,1.7565261,50.47588
+401773164,Wartburg,Buena Vista,No line,No line,No line,,,0.10672554,1.0672554,49.344578
+401773043,Central College,Coe College,No line,No line,No line,,,0.042847157,0.42847157,49.3468
+401773184,Loras College,Luther,No line,No line,No line,,,0.008069029,-0.080690295,48.324036
+401773193,Nebraska Wesleyan,Simpson College (IA),No line,No line,No line,,,0.10672554,1.0672554,49.344578
+401773257,Hardin-Simmons,East Texas Baptist University,No line,No line,No line,,,0.10672554,1.0672554,49.344578
+401773265,Howard Payne,Mary Hardin-Baylor,No line,No line,No line,,,0.10672554,1.0672554,49.344578
+401777039,Lakeland,St. Norbert,No line,No line,No line,,,0.01920576,0.1920576,48.48073
+401776781,Alma,Adrian,No line,No line,No line,,,0.01920576,0.1920576,46.7935
+401762506,UAB,North Texas,North Texas -17.5,No value,Under,8.441473960876465,14.034263610839844,0.9058526,-9.058526,54.465736
+401767255,Austin Peay,Samford,No line,No line,No line,,,0.042847157,0.42847157,49.3468
+401767586,The Citadel,Wofford,No line,No line,No line,,,0.042847157,0.42847157,49.3468
+401774349,Rhodes College,Centre College Kentucky,No line,No line,No line,,,0.07646595,0.7646595,49.21583
+401774467,Millsaps,Sewanee,No line,No line,No line,,,0.07029458,0.7029458,49.21583
+401777593,Belhaven,Huntingdon College (AL),No line,No line,No line,,,0.07029458,0.7029458,49.21583
+401777311,Martin Luther,Minnesota Morris,No line,No line,No line,,,0.01920576,0.1920576,48.48073
+401774174,Wisconsin-Stevens Pt,Wisconsin-Lacrosse,No line,No line,No line,,,0.01920576,0.1920576,48.48073
+401774167,Wisconsin-Eau Claire,Wisconsin-Platteville,No line,No line,No line,,,0.116108894,1.161089,48.48073
+401774196,Wisconsin-Stout,Wisconsin-River Falls,No line,No line,No line,,,0.116108894,1.161089,48.48073
+401774181,Wisconsin-Oshkosh,Wisconsin-Whitewater,No line,No line,No line,,,0.01920576,0.1920576,48.48073
+401773879,South Dakota Mines,Adams State,No line,No line,No line,,,0.10672554,1.0672554,49.344578
+401773899,Fort Lewis,Colorado School Of Mines,No line,No line,No line,,,0.33141607,3.3141606,50.810677
+401774061,Brockport,Utica,No line,No line,No line,,,0.24056296,2.4056296,49.50127
+401773375,Ouachita Baptist,Henderson State,No line,No line,No line,,,0.07646595,0.7646595,49.21583
+401773437,Quincy,Southwest Baptist,No line,No line,No line,,,0.042847157,0.42847157,49.3468
+401774406,Marietta,Bluffton,No line,No line,No line,,,0.008069029,-0.080690295,48.324036
+401773563,Western New Mexico,Midwestern State,No line,No line,No line,,,0.10672554,1.0672554,49.344578
+401773626,Missouri Southern State,Washburn,No line,No line,No line,,,0.07646595,0.7646595,49.21583
+401806687,St. Scholastica,Bethel (MN),No line,No line,No line,,,0.15304326,1.5304326,49.499054
+401773666,Ferrum,Concord University,No line,No line,No line,,,0.035225403,0.35225403,49.3468
+401783912,Benedictine University,Wisconsin-Lutheran,No line,No line,No line,,,0.10672554,1.0672554,49.344578
+401778027,Bridgewater (VA),Guilford College,No line,No line,No line,,,0.042847157,0.42847157,49.3468
+401767207,Tennessee State,Gardner-Webb,No line,No line,No line,,,0.07029458,0.7029458,49.3468
+401773642,Pittsburg St,Northwest Missouri St,No line,No line,No line,,,0.07646595,0.7646595,49.21583
+401767357,Alabama A&M,Florida A&M,No line,No line,No line,,,0.009543429,0.09543429,49.3468
+401773886,Black Hills State,New Mexico Highlands,No line,No line,No line,,,0.10672554,1.0672554,49.344578
+401767444,South Dakota State,Illinois State,No line,No line,No line,,,0.15304326,1.5304326,48.48073
+401833535,Delta State,Kentucky State,No line,No line,No line,,,0.07029458,0.7029458,49.21583
+401773523,West Florida,Valdosta State,No line,No line,No line,,,0.10672554,1.0672554,49.344578
+401767200,Lindenwood,Eastern Illinois,No line,No line,No line,,,0.07029458,0.7029458,49.3468
+401773915,Western Colorado,Colorado Mesa,No line,No line,No line,,,0.10672554,1.0672554,49.344578
+401767377,Alcorn State,Grambling,No line,No line,No line,,,0.20310001,2.0310001,50.097656
+401767457,Southern,Texas Southern,No line,No line,No line,,,0.20927139,2.0927138,50.097656
+401773341,Arkansas Tech,Harding University,No line,No line,No line,,,0.07646595,0.7646595,50.121315
+401773554,Eastern New Mexico,Texas A&M-Kingsville,No line,No line,No line,,,0.10672554,1.0672554,49.344578
+401773969,Wingate,Mars Hill,No line,No line,No line,,,0.035225403,0.35225403,49.3468
+401773603,Missouri Western,Central Oklahoma,No line,No line,No line,,,0.10672554,1.0672554,49.344578
+401773396,Southern Nazarene,Oklahoma Baptist,No line,No line,No line,,,0.10672554,1.0672554,49.344578
+401767387,Prairie View A&M,Arkansas-Pine Bluff,No line,No line,No line,,,0.21056862,2.1056862,50.956566
+401757304,Missouri State,UTEP,UTEP +4.5,No value,No value,2.9015945196151733,1.3061790466308594,0.15984055,1.5984055,49.80618
+401767556,Mercer,Chattanooga,No line,No line,No line,,,0.20310001,2.0310001,50.47588
+401767481,Incarnate Word,SE Louisiana,No line,No line,No line,,,0.3268432,3.268432,50.35058
+401760411,New Mexico,Colorado State,Colorado State +14.5,No value,No value,11.278576135635376,1.62298583984375,0.3221424,3.2214239,51.877014
+401773351,Southern Arkansas,Arkansas-Monticello,No line,No line,No line,,,0.10672554,1.0672554,49.344578
+401767246,Eastern Kentucky,Abilene Christian,No line,No line,No line,,,0.008069029,-0.080690295,50.757095
+401773893,CSU Pueblo,Chadron St,No line,No line,No line,,,0.10672554,1.0672554,49.344578
+401754592,Boston College,Georgia Tech,Georgia Tech -16.5,No value,Under,6.635428428649902,11.430229187011719,0.98645717,-9.864572,49.06977
+401754595,Miami,NC State,Miami -14.5,No value,Under,2.611309051513672,10.151851654052734,1.7111309,17.11131,45.34815
+401761653,UL Monroe,South Alabama,UL Monroe +4.5,No value,Over,5.27454948425293,9.233551025390625,0.97745496,-9.7745495,58.73355
+401761654,Southern Miss,Texas State,Texas State +3.0,No value,Under,11.35690689086914,8.264385223388672,0.8356907,-8.356907,57.235615
+401754593,Duke,Virginia,Virginia +4.5,Virginia ML (164.0),Under,7.849656343460083,3.891845703125,0.33496565,-3.3496563,54.608154
+401752906,Illinois,Maryland,Maryland +15.5,Maryland ML (550.0),Over,18.234609842300415,3.9097518920898438,0.27346098,-2.7346098,55.40975
+401752765,Alabama,Oklahoma,Alabama -6.0,Alabama ML (-230.0),Over,8.480094909667969,6.495643615722656,1.4480095,14.480095,51.995644
+401767514,North Dakota State,Northern Iowa,No line,No line,No line,,,0.0030487378,-0.030487377,45.861298
+401752907,USC,Iowa,Iowa +7.5,No value,No value,2.791426658630371,0.4386558532714844,0.47085732,4.7085733,49.938656
+401752903,Michigan State,Penn State,Michigan State +7.0,No value,Over,24.36665153503418,6.578189849853516,3.136665,-31.366652,57.07819
+401756953,Texas Tech,UCF,UCF +24.5,No value,Over,11.942361831665039,9.442283630371094,1.2557638,12.557638,57.942284
+401760413,Nevada,San José State,San José State -9.5,No value,Over,4.2317352294921875,6.234169006347656,0.5268265,-5.268265,55.73417
+401761652,James Madison,App State,App State +21.0,No value,No value,8.332037925720215,0.48581695556640625,1.2667962,12.667962,52.014183
+401757303,Western Kentucky,Middle Tennessee,Middle Tennessee +13.5,No value,No value,2.797072410583496,0.5326423645019531,1.0702927,10.702928,55.032642
+401767600,San Diego,Butler,No line,No line,No line,,,0.008069029,-0.080690295,46.636806
+401767519,Nicholls,Northwestern State,No line,No line,No line,,,0.20310001,2.0310001,50.47588
+401762509,Tulane,Florida Atlantic,Florida Atlantic +17.5,No value,Under,6.573813438415527,8.738296508789062,1.0926187,10.926187,53.761703
+401767067,Eastern Washington,Northern Colorado,No line,No line,No line,,,0.24056296,2.4056296,49.50127
+401767078,Northern Arizona,Cal Poly,No line,No line,No line,,,0.116108894,1.161089,48.48073
+401777146,Pacific Lutheran,NEWBERG,No line,No line,No line,,,0.10672554,1.0672554,48.79461
+401777158,Pacific (OR),Lewis & Clark College,No line,No line,No line,,,0.10672554,1.0672554,49.50127
+401777171,Whitworth,Puget Sound,No line,No line,No line,,,0.10672554,1.0672554,49.344578
+401777152,Linfield College,Willamette,No line,No line,No line,,,0.10672554,1.0672554,49.50127
+401762508,East Carolina,Memphis,Memphis +3.0,No value,Under,4.9699825048446655,3.7670631408691406,0.19699825,-1.9699825,53.732937
+401773422,McKendree,Truman State,No line,No line,No line,,,0.035225403,0.35225403,49.3468
+401773381,Northwestern Oklahoma State,Southwestern Oklahoma State,No line,No line,No line,,,0.10672554,1.0672554,49.344578
+401773592,Western Oregon,Central Washington,No line,No line,No line,,,0.10672554,1.0672554,49.50127
+401752771,Tennessee,New Mexico State,New Mexico State +39.5,No line,Under,2.716724395751953,8.79269790649414,3.6783276,36.783276,51.707302
+401754596,Wake Forest,North Carolina,North Carolina +5.5,North Carolina ML (180.0),Over,6.730990171432495,7.9792938232421875,0.123099014,-1.2309902,47.479294
+401767103,Portland State,Montana,No line,No line,No line,,,0.20362854,2.0362854,49.50127
+401767488,Stephen F. Austin,Lamar,No line,No line,No line,,,0.20927139,2.0927138,50.969456
+401767366,Mississippi Valley State,Alabama State,No line,No line,No line,,,0.035225403,0.35225403,49.3468
+401773544,West Texas A&M,Angelo State,No line,No line,No line,,,0.10672554,1.0672554,49.344578
+401757301,Florida International,Liberty,Liberty -2.5,No value,Over,0.6411887407302856,3.2243385314941406,0.18588112,-1.8588113,54.72434
+401767466,East Texas A&M,Houston Christian,No line,No line,No line,,,0.19861059,1.9861059,50.1479
+401767087,Idaho State,Weber State,No line,No line,No line,,,0.10672554,1.0672554,49.50127
+401761650,Georgia Southern,Coastal Carolina,Georgia Southern -3.5,Georgia Southern ML (-170.0),Under,5.692749977111816,8.420951843261719,0.919275,9.19275,52.07905
+401767290,Tarleton State,North Alabama,No line,No line,No line,,,0.10672554,1.0672554,49.344578
+401767495,McNeese,UT Rio Grande Valley,No line,No line,No line,,,0.17565261,1.7565261,50.47588
+401752769,Ole Miss,Florida,Florida +12.5,No value,Over,6.416068077087402,2.8877601623535156,0.6083932,6.083932,56.38776
+401752902,Washington,Purdue,Purdue +15.5,No value,No value,1.6514549255371094,0.7027206420898438,1.3848546,13.848545,50.79728
+401760414,UNLV,Utah State,UNLV -6.5,UNLV ML (-215.0),Under,7.166383743286133,13.673110961914062,1.3666384,13.666384,53.82689
+401757300,Sam Houston,Delaware,Delaware -10.0,No value,Over,1.687565803527832,2.2211380004882812,0.8312434,-8.312434,58.721138
+401756949,Baylor,Utah,Utah -8.5,No value,Under,6.60209858417511,4.833930969238281,0.18979014,-1.8979014,55.66607
+401752900,Ohio State,UCLA,Ohio State -31.5,No value,No value,1.2004776000976562,1.1658515930175781,3.2700477,32.700478,46.33415
+401752766,Georgia,Texas,Texas +6.5,Texas ML (195.0),No value,7.040569722652435,1.6445274353027344,0.054056972,-0.5405697,51.144527
+401754594,Florida State,Virginia Tech,Virginia Tech +14.5,No value,Under,8.39306116104126,3.8923721313476562,0.6106939,6.106939,51.607628
+401752770,Missouri,Mississippi State,Missouri -6.5,Missouri ML (-250.0),Under,10.282054901123047,3.6676063537597656,1.6782055,16.782055,47.832394
+401773578,UT Permian Basin,Sul Ross State,No line,No line,No line,,,0.10672554,1.0672554,49.344578
+401757302,Jacksonville State,Kennesaw State,Kennesaw State -3.0,Jacksonville State ML (136.0),Under,17.330045700073242,4.386837005615234,1.4330046,14.330046,52.113163
+401767296,Southern Utah,Central Arkansas,No line,No line,No line,,,0.15304326,1.5304326,46.7935
+401767096,Sacramento State,Idaho,No line,No line,No line,,,0.01920576,0.1920576,48.48073
+401752953,Washington State,Louisiana Tech,Louisiana Tech +8.5,Louisiana Tech ML (260.0),Over,9.034899473190308,9.742851257324219,0.053489946,-0.5348995,53.24285
+401756950,BYU,TCU,BYU -3.5,No value,No value,1.5306739807128906,0.6617050170898438,0.5030674,5.030674,52.161705
+401760412,Fresno State,Wyoming,Fresno State -3.5,No value,Over,1.6430511474609375,12.56252670288086,0.5143051,5.143051,53.062527
+401760410,San Diego State,Boise State,Boise State +1.5,No value,Over,3.413740396499634,11.661808013916016,0.19137403,-1.9137404,53.161808
+401767111,Montana State,UC Davis,No line,No line,No line,,,0.08894591,0.88945913,47.69341
